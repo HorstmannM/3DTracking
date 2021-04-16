@@ -8,5 +8,6 @@ This folder contains the following items:
   3. an exemplary camera calibration file (.mat)
   4. a user manual for the tracking
   5. this README
+  6. the folder structure required as a .zip-file
 
-All data except for manual and readme need to be placed in a folder called necessary files. We here allow download of the necessary file structure
+All data except for manual, zip and readme need to be placed in a folder called necessary files. We here allow download of the necessary file structure as well, see the zip-file.
